@@ -1,0 +1,32 @@
+.first-block {
+    background-color: rgb(36, 90, 151);
+}
+.second-block {
+    background-color: darkolivegreen;
+}
+.third-block {
+    background-color: darkslategrey;
+    color: white;
+}
+.list {
+    justify-self: center;
+    color: white;
+}
+.button {
+
+}
+h1 {
+    color: white;    
+}
+.navbar  {
+    background-color: crimson;
+}
+
+.collaberative {
+    width: 30%;
+    margin: 70px;
+}
+
+.para1 {
+    color: white;
+}
